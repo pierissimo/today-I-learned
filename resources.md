@@ -16,3 +16,6 @@ http://es6katas.org/
 ##PHANTOMJS - CASPERJS
 http://stackoverflow.com/questions/9246438/how-to-submit-a-form-using-phantomjs
 http://robertocaporicci.com/casper-review/
+
+##JS PATTERNS
+https://carldanley.com/js-module-pattern/ (and others)
