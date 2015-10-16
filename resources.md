@@ -1,8 +1,11 @@
-##REACTS
+##REACTJS
 http://survivejs.com/webpack_react/introduction/
 
 ##FLUX
 http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example
+
+##ANGULARJS
+http://programmers.stackexchange.com/questions/222528/should-angularjs-directive-directly-interact-with-services-or-is-it-considered-a
 
 ##NODEJS
 http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
