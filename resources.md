@@ -24,6 +24,6 @@ http://robertocaporicci.com/casper-review/
 ##JS PATTERNS
 https://carldanley.com/js-module-pattern/ (and others)
 
-#POLYMER
+##POLYMER
 http://www.sitepoint.com/building-a-image-gallery-component-with-polymer/
 
