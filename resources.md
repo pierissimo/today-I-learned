@@ -33,3 +33,6 @@ http://www.sitepoint.com/building-a-image-gallery-component-with-polymer/
 
 ##ES7
 https://gist.github.com/patrickarlt/8c56a789e5f185eb9722 (await, async)
+
+##VAGRANT
+https://github.com/panique/vagrant-lamp-bootstrap/
