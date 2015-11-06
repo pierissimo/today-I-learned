@@ -15,8 +15,15 @@ http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
 http://articles.dappergentlemen.com/2015/07/24/postcss/
 http://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583
 http://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592
+
 ##ES6
 http://es6katas.org/
+
+##MONGODB
+http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
+
+##METEORJS
+https://www.discovermeteor.com/blog/reactive-joins-in-meteor/
 
 ##PHANTOMJS - CASPERJS - SEO
 http://www.sitepoint.com/understanding-phantomjs/
