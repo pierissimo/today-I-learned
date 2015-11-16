@@ -7,6 +7,7 @@ http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example
 ##ANGULARJS
 http://programmers.stackexchange.com/questions/222528/should-angularjs-directive-directly-interact-with-services-or-is-it-considered-a
 https://www.timroes.de/2015/07/29/using-ecmascript-6-es6-with-angularjs-1-x/
+http://busypeoples.github.io/post/thinking-in-components-angular-js/
 
 ##NODEJS
 http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
