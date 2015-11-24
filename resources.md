@@ -1,5 +1,6 @@
 ##REACTJS
 http://survivejs.com/webpack_react/introduction/
+https://www.terlici.com/2015/03/18/fast-react-loading-server-rendering.html
 
 ##FLUX
 http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example
