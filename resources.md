@@ -49,3 +49,7 @@ https://github.com/panique/vagrant-lamp-bootstrap/
 
 ##REST
 http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+
+##EXPRESSJS
+Nice way to handle exception
+http://derickbailey.com/2014/09/06/proper-error-handling-in-expressjs-route-handlers/
