@@ -53,3 +53,5 @@ http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 ##EXPRESSJS
 Nice way to handle exception
 http://derickbailey.com/2014/09/06/proper-error-handling-in-expressjs-route-handlers/
+Nice controller inheritance 
+https://stackoverflow.com/questions/18667954/how-to-create-extendable-controllers-in-expressjs/18668391#18668391
