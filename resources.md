@@ -14,6 +14,8 @@ http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
 
 ##NODEJS
 http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
+Inheritance with module pattern
+http://metaduck.com/08-module-pattern-inheritance.html
 
 ##POSTCSS
 http://articles.dappergentlemen.com/2015/07/24/postcss/
