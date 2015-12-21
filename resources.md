@@ -59,3 +59,9 @@ Nice way to handle exception
 http://derickbailey.com/2014/09/06/proper-error-handling-in-expressjs-route-handlers/
 Nice controller inheritance 
 https://stackoverflow.com/questions/18667954/how-to-create-extendable-controllers-in-expressjs/18668391#18668391
+
+##TESTS
+http://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/
+
+##APIGATEWAY
+http://microservices.io/patterns/apigateway.html
