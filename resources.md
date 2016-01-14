@@ -1,7 +1,13 @@
+##JAVASCRIPT
+http://ejohn.org/blog/javascript-method-overloading/
+
 ##REACTJS
 http://survivejs.com/webpack_react/introduction/
 https://www.terlici.com/2015/03/18/fast-react-loading-server-rendering.html
 http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications
+
+##WEBPACK/ES6
+http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/
 
 ##FLUX
 http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example
@@ -26,7 +32,7 @@ http://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodol
 http://es6katas.org/
 http://www.sitepoint.com/writing-angularjs-apps-using-es6/ (Use of weakmaps)
 http://fitzgeraldnick.com/weblog/53/ (Weakmap for private implementation)
-http://www.sitepoint.com/preparing-ecmascript-6-proxies/ (Proxies)
+
 ##MONGODB
 http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
 
@@ -59,8 +65,7 @@ Nice way to handle exception
 http://derickbailey.com/2014/09/06/proper-error-handling-in-expressjs-route-handlers/
 Nice controller inheritance 
 https://stackoverflow.com/questions/18667954/how-to-create-extendable-controllers-in-expressjs/18668391#18668391
-Package for auth
-https://www.npmjs.com/package/everyauth
+
 ##TESTS
 http://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/
 
