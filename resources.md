@@ -1,5 +1,6 @@
 ##JAVASCRIPT
 http://ejohn.org/blog/javascript-method-overloading/
+http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
 
 ##REACTJS
 http://survivejs.com/webpack_react/introduction/
