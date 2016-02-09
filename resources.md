@@ -3,6 +3,7 @@ http://ejohn.org/blog/javascript-method-overloading/
 http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
 
 ##REACTJS
+http://blog.andrewray.me/flux-for-stupid-people/
 http://survivejs.com/webpack_react/introduction/
 https://www.terlici.com/2015/03/18/fast-react-loading-server-rendering.html
 http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications
@@ -12,6 +13,9 @@ http://jonathancreamer.com/advanced-webpack-part-2-code-splitting/
 
 ##FLUX
 http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example
+
+##ANGULARJS 2
+http://www.sitepoint.com/getting-past-hello-world-angular-2/
 
 ##ANGULARJS
 http://programmers.stackexchange.com/questions/222528/should-angularjs-directive-directly-interact-with-services-or-is-it-considered-a
