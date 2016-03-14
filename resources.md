@@ -23,6 +23,7 @@ https://www.timroes.de/2015/07/29/using-ecmascript-6-es6-with-angularjs-1-x/
 http://busypeoples.github.io/post/thinking-in-components-angular-js/
 http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
 http://michalostruszka.pl/blog/2013/09/06/selective_http_errors_handling_in_angularjs/
+http://ng-learn.org/2014/02/Writing_Custom_Validitions/ (custom form validation)
 
 ##NODEJS
 http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
