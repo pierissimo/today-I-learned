@@ -33,6 +33,7 @@ https://github.com/angular-app/angular-app//
 http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
 Inheritance with module pattern
 http://metaduck.com/08-module-pattern-inheritance.html
+http://pdfkit.org/ (pdf manipulation)
 
 ##POSTCSS
 http://articles.dappergentlemen.com/2015/07/24/postcss/
