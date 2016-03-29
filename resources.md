@@ -28,6 +28,7 @@ http://www.sitepoint.com/creating-components-angular-2-typescript-es5/
 http://michalostruszka.pl/blog/2013/09/06/selective_http_errors_handling_in_angularjs/
 http://ng-learn.org/2014/02/Writing_Custom_Validitions/ (custom form validation)
 https://github.com/angular-app/angular-app//
+http://triangular.io/blog/transclusion-transcludefn/ 
 
 ##NODEJS
 http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
