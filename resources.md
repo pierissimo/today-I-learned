@@ -8,6 +8,9 @@ http://survivejs.com/webpack_react/introduction/
 https://www.terlici.com/2015/03/18/fast-react-loading-server-rendering.html
 http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications
 
+##REDUX
+https://github.com/xgrommx/awesome-redux
+
 ##ES6
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html (generators)
 
