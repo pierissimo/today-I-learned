@@ -7,6 +7,8 @@ http://blog.andrewray.me/flux-for-stupid-people/
 http://survivejs.com/webpack_react/introduction/
 https://www.terlici.com/2015/03/18/fast-react-loading-server-rendering.html
 http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications
+http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html
+https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.ab88ymscb
 
 ##REDUX
 https://github.com/xgrommx/awesome-redux
@@ -32,6 +34,7 @@ http://michalostruszka.pl/blog/2013/09/06/selective_http_errors_handling_in_angu
 http://ng-learn.org/2014/02/Writing_Custom_Validitions/ (custom form validation)
 https://github.com/angular-app/angular-app//
 http://triangular.io/blog/transclusion-transcludefn/ 
+http://www.codelord.net/2014/11/02/angularjs-1-dot-3-taste-async-validators/
 
 ##NODEJS
 http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
@@ -90,6 +93,7 @@ http://microservices.io/patterns/apigateway.html
 
 ##FUNCTIONAL
 http://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/
+https://blog.rescale.com/part-1-improving-angularjs-application-with-immutable-js/
 
 ##DOCKER
 https://github.com/veggiemonk/awesome-docker
