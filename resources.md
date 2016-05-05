@@ -97,3 +97,7 @@ https://blog.rescale.com/part-1-improving-angularjs-application-with-immutable-j
 
 ##DOCKER
 https://github.com/veggiemonk/awesome-docker
+https://giantswarm.io/products/hosted-cloud-platform/
+
+##VARIOUS
+http://12factor.net/
