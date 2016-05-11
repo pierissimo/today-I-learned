@@ -101,3 +101,7 @@ https://giantswarm.io/products/hosted-cloud-platform/
 
 ##VARIOUS
 http://12factor.net/
+
+##AUTH
+https://developers.google.com/identity/protocols/OAuth2ServiceAccount
+http://www.kdelemme.com/2014/08/16/token-based-authentication-with-nodejs-redis/
