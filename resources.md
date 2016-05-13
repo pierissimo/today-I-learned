@@ -35,6 +35,10 @@ http://ng-learn.org/2014/02/Writing_Custom_Validitions/ (custom form validation)
 https://github.com/angular-app/angular-app//
 http://triangular.io/blog/transclusion-transcludefn/ 
 http://www.codelord.net/2014/11/02/angularjs-1-dot-3-taste-async-validators/
+- Controller and Services Inheritance:
+http://stackoverflow.com/a/16540524/962135
+http://blog.mgechev.com/2013/12/18/inheritance-services-controllers-in-angularjs/
+-
 
 ##NODEJS
 http://rickgaribay.net/archive/2012/01/28/node-is-not-single-threaded.aspx
