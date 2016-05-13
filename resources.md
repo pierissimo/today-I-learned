@@ -109,3 +109,7 @@ http://12factor.net/
 ##AUTH
 https://developers.google.com/identity/protocols/OAuth2ServiceAccount
 http://www.kdelemme.com/2014/08/16/token-based-authentication-with-nodejs-redis/
+
+##LINUX
+https://www.digitalocean.com/community/tutorials/how-to-write-a-linux-daemon-with-node-js-on-a-vps
+https://github.com/coreybutler/node-linux
