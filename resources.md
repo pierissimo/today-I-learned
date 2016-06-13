@@ -115,3 +115,6 @@ http://www.kdelemme.com/2014/08/16/token-based-authentication-with-nodejs-redis/
 https://www.digitalocean.com/community/tutorials/how-to-write-a-linux-daemon-with-node-js-on-a-vps
 https://github.com/coreybutler/node-linux
 https://thomashunter.name/blog/running-a-node-js-process-on-debian-as-an-init-d-service/
+
+#WP API
+http://www.michaelbromley.co.uk/blog/228/experiences-building-a-website-with-angularjs-wp-api-wordpress-api
