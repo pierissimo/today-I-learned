@@ -89,6 +89,8 @@ Nice way to handle exception
 http://derickbailey.com/2014/09/06/proper-error-handling-in-expressjs-route-handlers/
 Nice controller inheritance 
 https://stackoverflow.com/questions/18667954/how-to-create-extendable-controllers-in-expressjs/18668391#18668391
+http://stackoverflow.com/questions/18637380/need-express-js-controller-oop-tips
+https://github.com/volodymyrrudyi/generic-express-mongoose-controller-example
 
 ##TESTS
 http://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/
