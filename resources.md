@@ -118,3 +118,6 @@ https://thomashunter.name/blog/running-a-node-js-process-on-debian-as-an-init-d-
 
 #WP API
 http://www.michaelbromley.co.uk/blog/228/experiences-building-a-website-with-angularjs-wp-api-wordpress-api
+
+#BASH
+http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/
