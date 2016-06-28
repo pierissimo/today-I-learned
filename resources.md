@@ -123,3 +123,6 @@ http://www.michaelbromley.co.uk/blog/228/experiences-building-a-website-with-ang
 
 #BASH
 http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/
+
+#CSHARP
+http://zetcode.com/lang/csharp
