@@ -99,6 +99,7 @@ http://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascrip
 http://microservices.io/patterns/apigateway.html
 
 ##FUNCTIONAL
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.v25ww3iqo
 http://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/
 https://blog.rescale.com/part-1-improving-angularjs-application-with-immutable-js/
 
