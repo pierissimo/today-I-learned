@@ -128,3 +128,6 @@ http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-do
 
 #CSHARP
 http://zetcode.com/lang/csharp
+
+##SERVERLESS
+http://blog.matthewdfuller.com/2015/12/aws-lambda-occasionally-reliable-caching.html
