@@ -104,6 +104,7 @@ http://stackoverflow.com/questions/31546631/what-are-the-option-to-api-gateway-w
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.v25ww3iqo
 http://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/
 https://blog.rescale.com/part-1-improving-angularjs-application-with-immutable-js/
+https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html (book)
 
 ##DOCKER
 https://github.com/veggiemonk/awesome-docker
