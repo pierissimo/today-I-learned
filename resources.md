@@ -134,3 +134,6 @@ http://zetcode.com/lang/csharp
 
 ##SERVERLESS
 http://blog.matthewdfuller.com/2015/12/aws-lambda-occasionally-reliable-caching.html
+
+##MICROSERVICES
+http://slides.com/stefankutko/nodejs-microservices-event-sourcing-cqrs#/
