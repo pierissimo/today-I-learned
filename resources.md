@@ -25,6 +25,7 @@ http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example
 
 ##ANGULARJS 2
 http://www.sitepoint.com/getting-past-hello-world-angular-2/
+http://plnkr.co/edit/?p=preview (nice example of app with the use of NgModule)
 
 ##ANGULARJS
 http://programmers.stackexchange.com/questions/222528/should-angularjs-directive-directly-interact-with-services-or-is-it-considered-a
