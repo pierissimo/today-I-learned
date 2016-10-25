@@ -11,8 +11,9 @@ http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-ap
 http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html
 https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.ab88ymscb
 
-##REDUX
+##REDUX & STATE MANAGEMENT
 https://github.com/xgrommx/awesome-redux
+https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/
 
 ##ES6
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html (generators)
