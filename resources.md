@@ -2,6 +2,7 @@
 http://ejohn.org/blog/javascript-method-overloading/
 http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
 https://gist.github.com/pierissimo/9e1b89b7d7da7403b0a1453d605aea28 (module pattern inheritance)
+https://qubyte.codes/blog/interfaces-for-javascript (a way to implement interfaces in javascript)
 
 ##REACTJS
 http://blog.andrewray.me/flux-for-stupid-people/
