@@ -17,6 +17,7 @@ https://github.com/xgrommx/awesome-redux
 https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/
 
 ##ES6
+https://ponyfoo.com/books/practical-es6
 http://alexperry.io/javascript/2015/09/17/es6-generators-and-asynchronous-javascript.html (generators)
 
 ##WEBPACK/ES6
