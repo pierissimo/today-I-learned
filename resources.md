@@ -16,6 +16,9 @@ http://nicolashery.com/exploring-isomorphic-javascript/
 ##REDUX & STATE MANAGEMENT
 https://github.com/xgrommx/awesome-redux
 https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/
+(redux middleware for HTTP calls interception)
+http://stackoverflow.com/a/34318158/962135 
+http://redux.js.org/docs/api/applyMiddleware.html 
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
