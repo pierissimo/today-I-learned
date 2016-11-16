@@ -64,6 +64,7 @@ http://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodol
 http://es6katas.org/
 http://www.sitepoint.com/writing-angularjs-apps-using-es6/ (Use of weakmaps)
 http://fitzgeraldnick.com/weblog/53/ (Weakmap for private implementation)
+https://gist.github.com/mikaelbr/9900818#file-destructuring-js-L178 (destructuring)
 
 ##MONGODB
 http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/
