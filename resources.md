@@ -19,6 +19,7 @@ https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascrip
 (redux middleware for HTTP calls interception)
 http://stackoverflow.com/a/34318158/962135 
 http://redux.js.org/docs/api/applyMiddleware.html 
+https://github.com/reactjs/redux/issues/1385 (redux downsides)
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
