@@ -12,6 +12,7 @@ http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-ap
 http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactjs.html
 https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.ab88ymscb
 http://nicolashery.com/exploring-isomorphic-javascript/
+https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.c97ntd1yb (hhc)
 
 ##REDUX & STATE MANAGEMENT
 https://github.com/xgrommx/awesome-redux
@@ -19,8 +20,6 @@ https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascrip
 (redux middleware for HTTP calls interception)
 http://stackoverflow.com/a/34318158/962135 
 http://redux.js.org/docs/api/applyMiddleware.html 
-https://github.com/reactjs/redux/issues/1385 (redux downsides)
-http://stackoverflow.com/a/34788570/962135 (connect on top level component downsides)
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
