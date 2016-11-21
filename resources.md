@@ -20,6 +20,7 @@ https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascrip
 http://stackoverflow.com/a/34318158/962135 
 http://redux.js.org/docs/api/applyMiddleware.html 
 https://github.com/reactjs/redux/issues/1385 (redux downsides)
+http://stackoverflow.com/a/34788570/962135 (connect on top level component downsides)
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
