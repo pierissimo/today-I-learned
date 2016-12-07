@@ -148,3 +148,6 @@ http://blog.matthewdfuller.com/2015/12/aws-lambda-occasionally-reliable-caching.
 
 ##MICROSERVICES
 http://slides.com/stefankutko/nodejs-microservices-event-sourcing-cqrs#/
+
+##DEBUG
+https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/ (garbage collection)
