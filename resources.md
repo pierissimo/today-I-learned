@@ -21,6 +21,7 @@ https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascrip
 http://stackoverflow.com/a/34318158/962135 
 http://redux.js.org/docs/api/applyMiddleware.html 
 http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-39
+https://github.com/erikras/ducks-modular-redux 
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
