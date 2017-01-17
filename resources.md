@@ -1,6 +1,7 @@
 ##JAVASCRIPT
 http://ejohn.org/blog/javascript-method-overloading/
 http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
+https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/ (metaprogramming)
 https://gist.github.com/pierissimo/9e1b89b7d7da7403b0a1453d605aea28 (module pattern inheritance)
 https://qubyte.codes/blog/interfaces-for-javascript (a way to implement interfaces in javascript)
 
@@ -22,7 +23,6 @@ http://stackoverflow.com/a/34318158/962135
 http://redux.js.org/docs/api/applyMiddleware.html 
 http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-39
 https://github.com/erikras/ducks-modular-redux 
-https://github.com/Automattic/wp-calypso/blob/master/docs/our-approach-to-data.md (large scale redux app)
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
