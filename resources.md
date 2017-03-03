@@ -14,6 +14,7 @@ http://brewhouse.io/blog/2015/03/24/best-practices-for-component-state-in-reactj
 https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.ab88ymscb
 http://nicolashery.com/exploring-isomorphic-javascript/
 https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.c97ntd1yb (hhc)
+https://gist.github.com/dmiller9911/83c98982ff21a3ddf6c1c11187e9171b (slot implementation)
 
 ##REDUX & STATE MANAGEMENT
 https://github.com/xgrommx/awesome-redux
