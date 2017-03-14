@@ -15,6 +15,7 @@ https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-component
 http://nicolashery.com/exploring-isomorphic-javascript/
 https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.c97ntd1yb (hhc)
 https://gist.github.com/dmiller9911/83c98982ff21a3ddf6c1c11187e9171b (slot implementation)
+https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.gppwokaxy (testing)
 
 ##REDUX & STATE MANAGEMENT
 https://github.com/xgrommx/awesome-redux
