@@ -121,6 +121,7 @@ https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functiona
 http://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/
 https://blog.rescale.com/part-1-improving-angularjs-application-with-immutable-js/
 https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html (book)
+https://hughfdjackson.com/javascript/why-curry-helps/
 
 ##DOCKER
 https://github.com/veggiemonk/awesome-docker
