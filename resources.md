@@ -4,6 +4,7 @@ http://www.sitepoint.com/preparing-ecmascript-6-symbols-uses/
 https://gist.github.com/pierissimo/9e1b89b7d7da7403b0a1453d605aea28 (module pattern inheritance)
 https://qubyte.codes/blog/interfaces-for-javascript (a way to implement interfaces in javascript)
 https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5#.tz1fvs1wk (large scale app)
+http://blog.wolksoftware.com/the-current-state-of-dependency-inversion-in-javascript (dependency inversion)
 
 ##REACTJS
 http://blog.andrewray.me/flux-for-stupid-people/
@@ -15,7 +16,6 @@ https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-component
 http://nicolashery.com/exploring-isomorphic-javascript/
 https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.c97ntd1yb (hhc)
 https://gist.github.com/dmiller9911/83c98982ff21a3ddf6c1c11187e9171b (slot implementation)
-https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12#.gppwokaxy (testing)
 
 ##REDUX & STATE MANAGEMENT
 https://github.com/xgrommx/awesome-redux
@@ -121,7 +121,6 @@ https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functiona
 http://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programming/
 https://blog.rescale.com/part-1-improving-angularjs-application-with-immutable-js/
 https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html (book)
-https://hughfdjackson.com/javascript/why-curry-helps/
 
 ##DOCKER
 https://github.com/veggiemonk/awesome-docker
