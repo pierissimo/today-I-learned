@@ -156,3 +156,6 @@ http://slides.com/stefankutko/nodejs-microservices-event-sourcing-cqrs#/
 
 ##DEBUG
 https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/ (garbage collection)
+
+##DEVELOPMENT TECHNIQUES
+http://www.allaboutagile.com/what-is-agile-10-key-principles/ 
