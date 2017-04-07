@@ -26,6 +26,7 @@ http://redux.js.org/docs/api/applyMiddleware.html
 http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=issue-39
 https://github.com/erikras/ducks-modular-redux 
 https://github.com/Automattic/wp-calypso/blob/master/docs/our-approach-to-data.md (large scale redux app)
+https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
@@ -156,6 +157,3 @@ http://slides.com/stefankutko/nodejs-microservices-event-sourcing-cqrs#/
 
 ##DEBUG
 https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/ (garbage collection)
-
-##DEVELOPMENT TECHNIQUES
-http://www.allaboutagile.com/what-is-agile-10-key-principles/ 
