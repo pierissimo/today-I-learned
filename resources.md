@@ -5,6 +5,7 @@ https://gist.github.com/pierissimo/9e1b89b7d7da7403b0a1453d605aea28 (module patt
 https://qubyte.codes/blog/interfaces-for-javascript (a way to implement interfaces in javascript)
 https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5#.tz1fvs1wk (large scale app)
 http://blog.wolksoftware.com/the-current-state-of-dependency-inversion-in-javascript (dependency inversion)
+https://medium.com/@DonTAbrams/why-you-already-know-what-a-monad-is-d65a0b2182f5 (monad)
 
 ##REACTJS
 http://blog.andrewray.me/flux-for-stupid-people/
