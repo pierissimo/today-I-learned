@@ -29,6 +29,7 @@ http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/?utm_source=ponyfoo
 https://github.com/erikras/ducks-modular-redux 
 https://github.com/Automattic/wp-calypso/blob/master/docs/our-approach-to-data.md (large scale redux app)
 https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce
+https://taylorhakes.com/posts/improve-redux-with-redux-observable/ (redux-observable)
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
