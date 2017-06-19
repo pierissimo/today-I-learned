@@ -18,6 +18,7 @@ http://nicolashery.com/exploring-isomorphic-javascript/
 https://medium.com/@franleplant/react-higher-order-components-in-depth-cf9032ee6c3e#.c97ntd1yb (hhc)
 https://gist.github.com/dmiller9911/83c98982ff21a3ddf6c1c11187e9171b (slot implementation)
 https://github.com/planningcenter/react-patterns#scope (patterns)
+https://medium.com/@Dvtng/techniques-for-decomposing-react-components-e8a1081ef5da
 
 ##REDUX & STATE MANAGEMENT
 https://github.com/xgrommx/awesome-redux
