@@ -31,6 +31,8 @@ https://github.com/erikras/ducks-modular-redux
 https://github.com/Automattic/wp-calypso/blob/master/docs/our-approach-to-data.md (large scale redux app)
 https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce
 https://taylorhakes.com/posts/improve-redux-with-redux-observable/ (redux-observable)
+https://egghead.io/lessons/javascript-redux-colocating-selectors-with-reducers
+http://www.thinkloop.com/article/extreme-decoupling-react-redux-selectors/
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
