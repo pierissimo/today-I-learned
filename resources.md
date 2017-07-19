@@ -33,6 +33,7 @@ https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-t
 https://taylorhakes.com/posts/improve-redux-with-redux-observable/ (redux-observable)
 https://egghead.io/lessons/javascript-redux-colocating-selectors-with-reducers
 http://www.thinkloop.com/article/extreme-decoupling-react-redux-selectors/
+https://medium.com/faceyspacey/redux-first-router-data-fetching-solving-the-80-use-case-for-async-middleware-14529606c262 
 
 ##ES6
 https://ponyfoo.com/books/practical-es6
