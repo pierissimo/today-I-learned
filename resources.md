@@ -6,6 +6,7 @@ https://qubyte.codes/blog/interfaces-for-javascript (a way to implement interfac
 https://hackernoon.com/my-journey-toward-a-maintainable-project-structure-for-react-redux-b05dfd999b5#.tz1fvs1wk (large scale app)
 http://blog.wolksoftware.com/the-current-state-of-dependency-inversion-in-javascript (dependency inversion)
 https://medium.com/@DonTAbrams/why-you-already-know-what-a-monad-is-d65a0b2182f5 (monad)
+https://medium.com/@mlaythe/js-es6-recursive-tail-call-optimization-feaf2dada3f6 
 
 ##REACTJS
 http://blog.andrewray.me/flux-for-stupid-people/
