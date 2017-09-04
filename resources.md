@@ -166,3 +166,6 @@ http://slides.com/stefankutko/nodejs-microservices-event-sourcing-cqrs#/
 
 ##DEBUG
 https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/ (garbage collection)
+
+##VUEJS
+https://gist.github.com/pierissimo/94e4514fd514da0f8c8fe317a945e051
