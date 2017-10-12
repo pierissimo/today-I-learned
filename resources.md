@@ -132,6 +132,7 @@ http://www.sitepoint.com/an-introduction-to-reasonably-pure-functional-programmi
 https://blog.rescale.com/part-1-improving-angularjs-application-with-immutable-js/
 https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch1.html (book)
 https://medium.com/@hurricanew/the-functional-way-way-out-of-imperative-code-by-examples-f2f6eea5f73a
+https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5 (lenses)
 
 ##DOCKER
 https://github.com/veggiemonk/awesome-docker
