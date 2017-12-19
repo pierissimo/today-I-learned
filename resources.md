@@ -105,9 +105,6 @@ http://www.sitepoint.com/building-a-image-gallery-component-with-polymer/
 https://gist.github.com/patrickarlt/8c56a789e5f185eb9722 (await, async)
 https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841#.usudchyba
 
-##VAGRANT
-https://github.com/panique/vagrant-lamp-bootstrap/
-
 ##REST
 http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 
@@ -171,3 +168,6 @@ https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-ge
 
 ##VUEJS
 https://gist.github.com/pierissimo/94e4514fd514da0f8c8fe317a945e051
+
+##RXJS
+https://medium.com/@tomastrajan/practical-rxjs-in-the-wild-requests-with-concatmap-vs-mergemap-vs-forkjoin-11e5b2efe293
