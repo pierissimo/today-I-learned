@@ -21,6 +21,7 @@ https://gist.github.com/dmiller9911/83c98982ff21a3ddf6c1c11187e9171b (slot imple
 https://github.com/planningcenter/react-patterns#scope (patterns)
 https://medium.com/@Dvtng/techniques-for-decomposing-react-components-e8a1081ef5da
 https://medium.com/merrickchristensen/function-as-child-components-5f3920a9ace9
+https://blog.lftechnology.com/unit-testing-recompose-hocs-b00de60aba08
 
 ##REDUX & STATE MANAGEMENT
 https://github.com/xgrommx/awesome-redux
