@@ -171,6 +171,6 @@ https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-ge
 https://gist.github.com/pierissimo/94e4514fd514da0f8c8fe317a945e051  
 
 ##RXJS  
-https://blog.angularindepth.com/switchmap-bugs-b6de69155524
-https://gist.github.com/pierissimo/94e4514fd514da0f8c8fe317a945e051
-https://medium.com/@tomastrajan/practical-rxjs-in-the-wild-requests-with-concatmap-vs-mergemap-vs-forkjoin-11e5b2efe293
+https://blog.angularindepth.com/switchmap-bugs-b6de69155524  
+https://gist.github.com/pierissimo/94e4514fd514da0f8c8fe317a945e051  
+https://medium.com/@tomastrajan/practical-rxjs-in-the-wild-requests-with-concatmap-vs-mergemap-vs-forkjoin-11e5b2efe293  
