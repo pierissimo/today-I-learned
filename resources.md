@@ -10,6 +10,9 @@ https://medium.com/@mlaythe/js-es6-recursive-tail-call-optimization-feaf2dada3f6
 https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb (iterators)
 https://medium.com/@_aakashpandey/exploring-service-worker-cache-update-upgrade-i-baed2e812010 (basic workers)
 
+## TYPESCRIPT
+https://stackoverflow.com/questions/41144335/get-list-of-attribute-decorators-in-typescript metadata reflection
+
 ## REACTJS  
 http://blog.andrewray.me/flux-for-stupid-people/  
 http://survivejs.com/webpack_react/introduction/  
