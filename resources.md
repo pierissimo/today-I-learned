@@ -8,6 +8,7 @@ http://blog.wolksoftware.com/the-current-state-of-dependency-inversion-in-javasc
 https://medium.com/@DonTAbrams/why-you-already-know-what-a-monad-is-d65a0b2182f5 (monad)  
 https://medium.com/@mlaythe/js-es6-recursive-tail-call-optimization-feaf2dada3f6  
 https://hackernoon.com/infinite-data-structures-in-javascript-eb67ecbccdb (iterators)
+https://medium.com/@_aakashpandey/exploring-service-worker-cache-update-upgrade-i-baed2e812010 (basic workers)
 
 ## REACTJS  
 http://blog.andrewray.me/flux-for-stupid-people/  
